@@ -1,0 +1,17 @@
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\libhostpolicy.so
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\libhostfxr.so
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.deps.json
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.runtimeconfig.json
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.runtimeconfig.dev.json
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.dll
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.pdb
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\MyTcpClient.dll
+D:\Laosong\PalindromeChecker\bin\Release\netcoreapp2.1\ubuntu.16.10-x64\MyTcpClient.pdb
+D:\Laosong\PalindromeChecker\obj\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.csprojAssemblyReference.cache
+D:\Laosong\PalindromeChecker\obj\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.csproj.CoreCompileInputs.cache
+D:\Laosong\PalindromeChecker\obj\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.AssemblyInfoInputs.cache
+D:\Laosong\PalindromeChecker\obj\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.AssemblyInfo.cs
+D:\Laosong\PalindromeChecker\obj\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.csproj.CopyComplete
+D:\Laosong\PalindromeChecker\obj\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.dll
+D:\Laosong\PalindromeChecker\obj\Release\netcoreapp2.1\ubuntu.16.10-x64\PalindromeChecker.pdb

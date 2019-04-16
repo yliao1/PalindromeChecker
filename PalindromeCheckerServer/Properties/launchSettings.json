@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PalindromeCheckerServer": {
+      "commandName": "Project",
+      "commandLineArgs": "-port=4747"
+    }
+  }
+}

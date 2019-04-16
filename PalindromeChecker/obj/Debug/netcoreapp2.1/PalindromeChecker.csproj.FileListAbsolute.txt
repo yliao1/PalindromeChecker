@@ -1,0 +1,14 @@
+D:\Laosong\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.csproj.CoreCompileInputs.cache
+D:\Laosong\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.AssemblyInfoInputs.cache
+D:\Laosong\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.AssemblyInfo.cs
+D:\Laosong\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.deps.json
+D:\Laosong\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.runtimeconfig.json
+D:\Laosong\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.runtimeconfig.dev.json
+D:\Laosong\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.dll
+D:\Laosong\PalindromeChecker\bin\Debug\netcoreapp2.1\PalindromeChecker.pdb
+D:\Laosong\PalindromeChecker\bin\Debug\netcoreapp2.1\MyTcpClient.dll
+D:\Laosong\PalindromeChecker\bin\Debug\netcoreapp2.1\MyTcpClient.pdb
+D:\Laosong\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.csprojAssemblyReference.cache
+D:\Laosong\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.csproj.CopyComplete
+D:\Laosong\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.dll
+D:\Laosong\PalindromeChecker\obj\Debug\netcoreapp2.1\PalindromeChecker.pdb

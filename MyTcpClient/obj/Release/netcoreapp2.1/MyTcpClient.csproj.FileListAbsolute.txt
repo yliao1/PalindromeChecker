@@ -1,0 +1,9 @@
+D:\Laosong\MyTcpClient\bin\Release\netcoreapp2.1\MyTcpClient.deps.json
+D:\Laosong\MyTcpClient\bin\Release\netcoreapp2.1\MyTcpClient.dll
+D:\Laosong\MyTcpClient\bin\Release\netcoreapp2.1\MyTcpClient.pdb
+D:\Laosong\MyTcpClient\obj\Release\netcoreapp2.1\MyTcpClient.csproj.CoreCompileInputs.cache
+D:\Laosong\MyTcpClient\obj\Release\netcoreapp2.1\MyTcpClient.AssemblyInfoInputs.cache
+D:\Laosong\MyTcpClient\obj\Release\netcoreapp2.1\MyTcpClient.AssemblyInfo.cs
+D:\Laosong\MyTcpClient\obj\Release\netcoreapp2.1\MyTcpClient.dll
+D:\Laosong\MyTcpClient\obj\Release\netcoreapp2.1\MyTcpClient.pdb
+D:\Laosong\MyTcpClient\obj\Release\netcoreapp2.1\MyTcpClient.csprojAssemblyReference.cache

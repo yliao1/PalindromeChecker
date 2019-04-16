@@ -1,0 +1,17 @@
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.exe
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.deps.json
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.runtimeconfig.json
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.runtimeconfig.dev.json
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.dll
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.pdb
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\MyTcpClient.dll
+D:\Laosong\PalindromeCheckerServer\bin\Release\netcoreapp2.1\win10-x64\MyTcpClient.pdb
+D:\Laosong\PalindromeCheckerServer\obj\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.csprojAssemblyReference.cache
+D:\Laosong\PalindromeCheckerServer\obj\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.csproj.CoreCompileInputs.cache
+D:\Laosong\PalindromeCheckerServer\obj\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.AssemblyInfoInputs.cache
+D:\Laosong\PalindromeCheckerServer\obj\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.AssemblyInfo.cs
+D:\Laosong\PalindromeCheckerServer\obj\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.csproj.CopyComplete
+D:\Laosong\PalindromeCheckerServer\obj\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.dll
+D:\Laosong\PalindromeCheckerServer\obj\Release\netcoreapp2.1\win10-x64\PalindromeCheckerServer.pdb
